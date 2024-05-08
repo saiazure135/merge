@@ -1,1 +1,3 @@
 this is sainath teaching mergeconflit
+
+im doing git 
